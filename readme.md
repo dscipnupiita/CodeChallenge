@@ -22,16 +22,24 @@ Es muy fácil participar, simplemente tienes que estar al tanto de las publicaci
 - Esto creará una copia idéntica de este repositorio en tu cuenta de Github
 - Con Git, clona tu repositorio en tu computadora, encontrarás dentro de la carpeta del tema que quieras resolver otra carpeta llamada "codigos"
 
-```bash
-git clone 
 ```
-
+git clone [link de tu repo]
+```
 - Adentro de esta carpeta escribe un archivo con las funciones que resuelvan los problemas
 - Utiliza el lenguaje que más te guste
 - Por favor, nombra tu archivo de la siguiente manera ***tema_nombre/nick.extension***, ejemplo: *linkedLists_jerts.py*
 - Cuando termines crea un commit con tus cambios y haz un push a tu repositorio
+
+```bash
+git add -all
+git commit -m"Tu mensaje va aqui"
+git push origin main
+```
+
 - Esto te permitirá hacer un Pull Request desde tu repositorio hacia este.
 - Y listo, manda tu Pull Request con un comentario o no, nosotros lo revisaremos 😉
+
+Cualquier duda que tengas puedes contactarnos en las diferentes redes del DSC IPN-UPIITA
 
 ## Nuestras redes sociales
 ---
