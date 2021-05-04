@@ -11,7 +11,7 @@
 Estás en el repositorio del CodeChallenge del Google Developer Student Club IPN-UPIITA.
 Aquí encontrarás los diferentes retos que se van presentando a la comunidad cada dos semanas.
 
-Es muy fácil participar, simplemente tienes que estar al tanto de las publicaciones en la página de [Facebook](https://www.facebook.com/dscipnupiita) y cuando hayas terminados tus códigos para cada reto puedes mandarlo a nuestro Inbox o mandar un PR y nosotros lo revisaremos.
+Es muy fácil participar, simplemente tienes que estar al tanto de las publicaciones en la página de [Facebook](https://www.facebook.com/dscipnupiita) y cuando hayas terminado tus códigos para cada reto puedes mandarlo a nuestro Inbox o mandar un PR y nosotros lo revisaremos.
 
  
 ## ¿Cómo hacer un Pull Request para enviar mis códigos? 
