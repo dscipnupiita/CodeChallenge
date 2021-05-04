@@ -8,8 +8,6 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jkQxdVUn)
 
-## Bienvenido
----
 Estás en el repositorio del CodeChallenge del Google Developer Student Club IPN-UPIITA.
 Aquí encontrarás los diferentes retos que se van presentando a la comunidad cada dos semanas.
 
