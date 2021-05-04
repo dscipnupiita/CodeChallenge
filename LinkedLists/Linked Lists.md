@@ -13,7 +13,7 @@ Bienvenido a la segunda serie de retos del #CodeChallenge🤖 traído a ti por e
 
 Te compartimos a continuación una breve descripción de los retos y el enlace donde puedes verlo más detallado y probar tu código!
 
-No olvides que cuando tengas tu código respuesta, debes mandarlo al inbox de la página de facebook del [DSC IPN-UPIITA](https://www.facebook.com/dscipnupiita)
+No olvides que cuando tengas tu código respuesta, debes mandarlo al inbox de la página de facebook del [DSC IPN-UPIITA](https://www.facebook.com/dscipnupiita) o hacer una Pull Request a este repositorio
 
 ## Reto 1: Suma dos números
 ---
