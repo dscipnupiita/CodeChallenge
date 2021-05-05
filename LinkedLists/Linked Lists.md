@@ -48,3 +48,37 @@ Ejemplo:
 ![Listas%20Enlazadas%20(Linked%20Lists)%207e6d730b73364a469ed71f66a047c883/Untitled%203.png](../images/Listas%20Enlazadas%20(Linked%20Lists)%207e6d730b73364a469ed71f66a047c883/Untitled%203.png)
 
 🔗👉Enlace del problema completo: [https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?h_l=interview&playlist_slugs[][]=interview-preparation-kit&playlist_slugs[][]=linked-lists](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists)
+
+## ¿Cómo hacer un Pull Request para enviar mis códigos? 
+---
+- Crea un Fork de este repositorio, lo puedes hacer con el botón de "Fork" en la esquina superior derecha
+- Esto creará una copia idéntica de este repositorio en tu cuenta de Github
+- Con Git, clona tu repositorio en tu computadora, encontrarás dentro de la carpeta del tema que quieras resolver otra carpeta llamada "codigos"
+
+```
+git clone [link de tu repo]
+```
+- Adentro de esta carpeta escribe un archivo con las funciones que resuelvan los problemas
+- Utiliza el lenguaje que más te guste
+- Por favor, nombra tu archivo de la siguiente manera ***tema_nombre/nick.extension***, ejemplo: *linkedLists_jerts.py*
+- Cuando termines crea un commit con tus cambios y haz un push a tu repositorio
+
+```bash
+git add -all
+git commit -m"Tu mensaje va aqui"
+git push origin main
+```
+
+- Esto te permitirá hacer un Pull Request desde tu repositorio hacia este.
+- Y listo, manda tu Pull Request con un comentario o no, nosotros lo revisaremos 😉
+
+Cualquier duda que tengas puedes contactarnos en las diferentes redes del DSC IPN-UPIITA
+
+## Nuestras redes sociales
+---
+| Red Social | Link |
+| ------ | ------ |
+| Facebook| [Developer Student Club Facebook](https://www.facebook.com/dscipnupiita) |
+| Instram | [Developer Student Club Instagram](https://www.instagram.com/dscipnupiita/) |
+| Twitter | [Developer Student Club Twitter](https://twitter.com/dscipnupiita) |
+| Discord | [Developer Student Club Discord](https://discord.gg/jkQxdVUn) |
