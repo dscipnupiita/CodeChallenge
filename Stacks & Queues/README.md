@@ -30,7 +30,7 @@ Salida 2:
 
 🔗👉Enlace del problema completo https://www.interviewbit.com/problems/balanced-parantheses/
 
-## Reto 2:
+## Reto 2: Cola usando dos pilas
 
 Una cola es un tipo de datos abstracto que mantiene el orden en el que los elementos fueron agregados, esto permite eliminar primero los elementos más antiguos del frente y agregar nuevos elementos al final. Esto se denomina estructura de datos _First In First Out (FIFO)_ porque el primer elemento que se ha agregado a la cola es siempre el primero en ser eliminado.
 Una cola básica tiene las siguientes operaciones:
