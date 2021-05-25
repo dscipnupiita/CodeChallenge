@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/linkedLists.png" width="920">
+  <img src="../images/Stack & Queues.png" width="920">
 </p>
 # Stacks & Queues
 
