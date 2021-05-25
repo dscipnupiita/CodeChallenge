@@ -4,6 +4,10 @@
 
 # Stacks & Queues
 
+Bienvenido a la segunda serie de retos del #CodeChallenge🤖 traído a ti por el DSC IPN-UPIITA, en esta ocasión te retamos a resolver 3 problemas de dificultad variada sobre pilas y colas.
+
+Te compartimos a continuación una breve descripción de los retos y el enlace donde puedes verlo más detallado y probar tu código!
+
 ## Reto 1: Paréntesis balanceados
 
 Dado una cadena de texto `A` que consiste sólo en paréntesis `(` y `)`
