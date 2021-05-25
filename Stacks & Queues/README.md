@@ -74,3 +74,5 @@ STDIN   Function
 14
 14
 ```
+
+🔗👉Enlace del problema completo https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
