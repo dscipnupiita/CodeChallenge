@@ -76,3 +76,47 @@ STDIN   Function
 ```
 
 🔗👉Enlace del problema completo https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+
+## Reto 3: Task Scheduler
+
+Dado un array de caracteres `tasks`, representa las tareas que una CPU necesita hacer, donde cada letra representa una diferente tarea. Las tareas podrán ser completadas en cualquier orden.
+Cada tarea es completada en una unidad de tiempo. Para cada unidad de tiempo, la CPU podría completar una tarea o simplemente estar inactiva.
+
+Sin embargo, hay un número entero no negativo `n` que representa el periodo de recuperación entre dos tareas iguales (la misma letra en el arreglo), es decir, debe haber al menos `n` unidades de tiempo entre dos tareas iguales.
+
+Devuelve el menor numero de unidades de tiempo que la CPU tomará para finalizar todas las tareas dadas.
+
+### Ejemplo de entradas y salidas 1:
+
+```
+Entrada: tasks = ["A","A","A","B","B","B"], n = 2
+Salida: 8
+Explicación:
+A -> B -> inactivo -> A -> B -> inactivo -> A -> B
+Hay al menos 2 unidades de tiempo entre dos tareas iguales
+```
+
+### Ejemplo de entradas y salidas 2:
+
+```
+Entrada: tasks = ["A","A","A","B","B","B"], n = 0
+Salida: 6
+Explicación: En este caso, cualquier permutación de tamaño 6 funcionaría ya que n = 0
+["A","A","A","B","B","B"]
+["A","B","A","B","A","B"]
+["B","B","B","A","A","A"]
+...
+y así, sucesivamente
+```
+
+### Ejemplo de entradas y salidas 3:
+
+```
+Entrada: tasks = ["A","A","A","A","A","A","B","C","D","E","F","G"], n = 2
+Salida: 16
+Explicación:
+Una posible solución es:
+A -> B -> C -> A -> D -> E -> A -> F -> G -> A -> inactivo -> inactivo -> A -> inactivo -> inactivo -> A
+```
+
+🔗👉Enlace del problema completo https://leetcode.com/problems/task-scheduler/
